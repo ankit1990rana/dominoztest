@@ -94,6 +94,7 @@ class DorpDown extends React.Component {
   render() {
     return (
       <div id="containerRef">
+        Type First 3 Letters
         <input type="text" onClick={() => this.getMovies(event)} onChange={() => this.getMovies(event)} />
         {this.selectedMovies()}
         <ul id="movieList">
