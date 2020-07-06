@@ -1,0 +1,33 @@
+ul{
+  width: 200px;
+  list-style-type: none;
+  padding: 0px;
+}
+li{
+  padding: 5px 0px 5px 5px;
+  background: gray;
+  color: white;
+}
+li:hover{
+  background-color: yellow;
+  color: #000000;
+  cursor: pointer;
+}
+.parent-round{
+  padding: 6px;
+  border: 1px solid grey;
+  border-radius: 25px;
+  margin-right: 4px;
+  margin-top: 5px;
+  display: inline-block;
+}
+.child-span{
+      margin-left: 3px;
+      color: #441919;
+      line-height: 0px;
+      position: relative;
+      cursor: pointer;
+}
+input {
+  display: block;
+}
