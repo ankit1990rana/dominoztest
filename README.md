@@ -1,4 +1,4 @@
 # dominoztest
 
-Just run index.html in you browser, and type first 3 letters of the movie you want to search
+Use any server to run the application xampp, mamp, wamp or enable cors in your browser
 Make sure you are connect to Internet
